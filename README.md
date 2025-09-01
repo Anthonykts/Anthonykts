@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there! 👋 I'm Antonis Kotzampasakis
 
-<!--
-**Anthonykts/Anthonykts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc in Physics** | **M.Sc in Electrical Engineering** (University of Patras)  
+💡 Focused on **optimization problems in modern electrical energy systems**.  
+🐍 Main programming language: **Python**  
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
+- **Programming Languages:** Python
+- **Domains:** Electrical Energy Systems, Optimization, Modeling & Simulation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+*(Projects will be added here soon — stay tuned!)*
+
+## 🌱 Currently Learning
+- Advanced Python libraries for optimization
+- Smart grid simulation techniques
+- Machine learning applications in energy systems
+  
+## 📊 GitHub Stats
+![Antonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonykts&show_icons=true&theme=radical)
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-kotzampasakis-129803230)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anthonykts)
