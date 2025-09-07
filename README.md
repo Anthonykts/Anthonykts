@@ -14,7 +14,7 @@ Here are some of my completed projects related to electricity markets and power 
 
 ### DC Powerflow Model
 Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
-[GitHub Repository](https://github.com/Anthonykts/dc-flow)  
+[GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 *More projects will be added soon — stay tuned!*
 
 ## 🌱 Currently Learning
