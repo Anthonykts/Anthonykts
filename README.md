@@ -12,7 +12,7 @@
 
 Here are some of my completed projects related to electricity markets and power systems:
 
-### DC Powerflow Model
+### -  DC Powerflow Model
 - Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
 [GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 
