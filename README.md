@@ -9,7 +9,13 @@
 - **Domains:** Electrical Energy Systems, Optimization, Modeling & Simulation
 
 ## 📂 Projects
-*(Projects will be added here soon — stay tuned!)*
+
+Here are some of my completed projects related to electricity markets and power systems:
+
+### DC Powerflow Model
+Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
+[GitHub Repository](https://github.com/Anthonykts/dc-flow)  
+*More projects will be added soon — stay tuned!*
 
 ## 🌱 Currently Learning
 - Advanced Python libraries for optimization
