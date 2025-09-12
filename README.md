@@ -12,11 +12,16 @@
 
 Here are some of my completed projects related to electricity markets and power systems:
 
-### -  DC Powerflow Model
+### - DC Powerflow Model  
 Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
 [GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 
-*More projects will be added soon — stay tuned!*
+### - ATC (Available Transfer Capability) Project  
+Development of an **ATC calculation model** to assess available transfer capacity in transmission networks, supporting secure grid operation and electricity market transactions.  
+[GitHub Repository](https://github.com/Anthonykts/atc-market-model)  
+
+*More projects will be added soon — stay tuned!*  
+
 
 ## 🌱 Currently Learning
 - Advanced Python libraries for optimization
