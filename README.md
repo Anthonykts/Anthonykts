@@ -11,12 +11,15 @@
 ## 📂 Projects
 
 Here are some of my completed projects related to electricity markets and power systems:
-
-### - DC Powerflow Model  
+- **EU Market Clearing Price**  
+  Market clearing and pricing for the Greek day-ahead electricity market (17/05/2024), following the European Target Model.  
+  [GitHub Repository](https://github.com/Anthonykts/EU-Market-Clearing-Model)
+  
+- **DC Powerflow Model**  
 Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
 [GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 
-### - ATC (Available Transfer Capacity) Project  
+- **ATC (Available Transfer Capacity) Project**   
 Development of an **ATC calculation model** to assess available transfer capacity in transmission networks, supporting secure grid operation and electricity market transactions.  
 [GitHub Repository](https://github.com/Anthonykts/atc-market-model)  
 
