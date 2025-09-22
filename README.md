@@ -34,7 +34,9 @@ Development of an **ATC calculation model** to assess available transfer capacit
 - Advanced Python libraries for optimization
 - Smart grid simulation techniques
 - Machine learning applications in energy systems
-  
+
+💡 Goal: Applying optimization and machine learning techniques to real-world energy system challenges.
+ 
 ## 📊 GitHub Stats
 ![Antonis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anthonykts&show_icons=true&theme=radical)
 
