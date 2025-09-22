@@ -25,6 +25,7 @@ Development of an **ATC calculation model** to assess available transfer capacit
 
 - **Unit Commitment Project**  
   Implementation of the Unit Commitment problem in power systems, formulated as a Mixed-Integer Linear Program (MILP) and solved using Pyomo (small case) and Gurobi (main case).
+  
 [GitHub Repository](https://github.com/Anthonykts/Unit-Commitment-Project)
 
 *More projects will be added soon — stay tuned!*  
