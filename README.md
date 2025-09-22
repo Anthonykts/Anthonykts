@@ -20,13 +20,12 @@ Python implementation of the **DC Power Flow model** for electricity market clea
 [GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 
 - **ATC (Available Transfer Capacity) model Project**   
-Development of an **ATC calculation model** to assess available transfer capacity in transmission networks, supporting secure grid operation and electricity market transactions.  
+Development of an **ATC calculation model** to assess available transfer capacity in transmission networks, supporting secure grid operation and electricity market transactions.
 [GitHub Repository](https://github.com/Anthonykts/atc-market-model)  
 
 - **Unit Commitment Project**  
   Implementation of the Unit Commitment problem in power systems, formulated as a Mixed-Integer Linear Program (MILP) and solved using Pyomo (small case) and Gurobi (main case).
-  
-[GitHub Repository](https://github.com/Anthonykts/Unit-Commitment-Project)
+  [GitHub Repository](https://github.com/Anthonykts/Unit-Commitment-Project)
 
 *More projects will be added soon — stay tuned!*  
 
