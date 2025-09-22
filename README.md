@@ -15,15 +15,15 @@ Here are some of my completed projects related to electricity markets and power 
   Market clearing and pricing for the Greek day-ahead electricity market (17/05/2024), following the European Target Model.  
   [GitHub Repository](https://github.com/Anthonykts/EU-Market-Clearing-Model)
   
-- **DC Powerflow Model Project **  
+- **DC Powerflow Model Project**  
 Python implementation of the **DC Power Flow model** for electricity market clearing and pricing, with Excel-based input/output.  
 [GitHub Repository](https://github.com/Anthonykts/dc-powerflow-model)  
 
-- **ATC (Available Transfer Capacity) model Project **   
+- **ATC (Available Transfer Capacity) model Project**   
 Development of an **ATC calculation model** to assess available transfer capacity in transmission networks, supporting secure grid operation and electricity market transactions.  
 [GitHub Repository](https://github.com/Anthonykts/atc-market-model)  
 
-- **Unit Commitment Project **  
+- **Unit Commitment Project**  
   Implementation of the Unit Commitment problem in power systems, formulated as a Mixed-Integer Linear Program (MILP) and solved using Pyomo (small case) and Gurobi (main case).
   [GitHub Repository](https://github.com/Anthonykts/Unit-Commitment-Project)
 
