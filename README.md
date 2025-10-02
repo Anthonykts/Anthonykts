@@ -11,6 +11,10 @@
 ## 📂 Projects
 
 Here are some of my completed projects related to electricity markets and power systems:
+- **Flexible Demand in the European Day-Ahead Electricity Market – Enhanced Overview**  
+  Analysis of flexible demand in the European day-ahead electricity market. The model is **general and agnostic**, allowing **demand shifting across hours while maintaining total daily energy consumption**. It incorporates **flexibility parameters (α), optional discomfort costs, and social welfare optimization**, providing insights into **market prices, generation schedules, and demand management strategies**.  
+  [GitHub Repository](https://github.com/Anthonykts/EU_Market_FlexDemand)
+
 - **EU Market Clearing Price Project**  
   Market clearing and pricing for the Greek day-ahead electricity market (17/05/2024), following the European Target Model.  
   [GitHub Repository](https://github.com/Anthonykts/EU-Market-Clearing-Model)
