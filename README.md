@@ -35,6 +35,10 @@
 
 ## 📂 Projects
 
+### Flexible Demand in the U.S. Day-Ahead Electricity Market  
+Analysis of the participation of **flexible demand** in the **U.S. day-ahead wholesale electricity market**, comparing outcomes under **complex bidding structures**. The model enables **demand shifting** from high-cost to low-cost hours while maintaining **energy neutrality**. It integrates **flexibility parameters (α)**, **discomfort costs**, and **MILP-based optimal market clearing**, providing insights into **market efficiency, price volatility**, and **social welfare**.  
+[GitHub Repository](https://github.com/Anthonykts/Unit_Commitment_FlexDemand)
+
 ### Flexible Demand in the European Day-Ahead Electricity Market  
 Analysis of flexible demand in the European day-ahead electricity market. The model is **general and agnostic**, allowing **demand shifting across hours while maintaining total daily energy consumption**. Incorporates **flexibility parameters (α), optional discomfort costs**, and **social welfare optimization**, providing insights into **market prices, generation schedules, and demand management strategies**.  
 [GitHub Repository](https://github.com/Anthonykts/EU_Market_FlexDemand)
