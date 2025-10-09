@@ -1,26 +1,47 @@
-# Hi there! 👋 I'm Antonis Kotzampasakis
+# Hi there! 👋 I'm Antonis Kotzampasakis  
+*Energy Systems Optimization | Electricity Markets | Python Developer*
 
-🎓 **B.Sc in Physics** | **M.Sc in Electrical Engineering** (University of Patras)  
-💡 Focused on **optimization and modeling in modern electrical energy systems**  
-🐍 Main programming language: **Python**
+🎓 **B.Sc. in Physics** | **M.Sc. in Electrical & Computer Engineering** (University of Patras)  
+⚡ Passionate about **energy systems optimization, electricity markets, and data-driven modeling**  
+🐍 Main programming language: **Python**  
+💡 Exploring the intersection of **power economics, optimization, and sustainability**
 
 ---
 
 ## 🎓 Education & Academic Focus
 
-**B.Sc in Physics – University of Patras**  
-*Focus:* Environmental Physics, Physical Chemistry, Air Pollution  
-*Diploma Thesis:* Investigation of gaseous pollutants and chemical processes in urban environments  
-*Key Skills:* Data analysis, environmental modeling, experimental design  
+**M.Sc. in Renewable Energy Systems (Specialization: Electricity Markets)**  
+*University of Patras – Department of Electrical & Computer Engineering*  
+📆 Oct 2022 – Feb 2025 • Grade: 8.28 / 10 (Very Good)  
 
-**M.Sc in Electrical Engineering – University of Patras**  
-*Focus:* Power Systems, Energy Markets, Optimization, Smart Grids  
-*Thesis / Main Project:* Analysis of the impact of storage and flexible demand participation on wholesale electricity markets – investigated optimization of flexible demand in both **European and US Day-Ahead markets**, incorporating **time-coupling constraints, social welfare maximization**, and **sensitivity analysis on flexibility factors and discomfort costs**.  
-*Key Skills:* Mathematical modeling, optimization algorithms (LP, MILP), energy market simulation, Python programming  
+**Thesis:** *Analysis of the Impact of Flexible Demand Participation on the Wholesale Market*  
+**Focus Areas / Skills:** Electricity market modeling · Energy system modeling · Demand flexibility modeling · System optimization · Power economics · Renewable energy integration · Simulation & scenario analysis · Quantitative data analysis  
+
+**Highlights / Achievements:**  
+- Developed and implemented advanced mathematical models of Day-Ahead market mechanisms, comparing European simple bids and U.S. complex bids.  
+- Conducted sensitivity analyses on demand flexibility and consumer discomfort costs, demonstrating improvements in social welfare, market efficiency, and price stability.  
+- Showed that shifting flexible demand can reduce reliance on conventional generation and enhance renewable energy integration.  
+- Laid groundwork for future research on integrating flexible technologies (e.g., EVs, heating loads) and modeling under uncertainty.  
+
+---
+
+**B.Sc. in Physics (Environmental Focus)**  
+*University of Patras – Department of Physics*  
+📆 Sep 2015 – Aug 2022 • Grade: 6.37 / 10 (Good)  
+
+**Thesis:** *Experimental Investigation of Atmospheric Pollutant Diffusion and Transport Phenomena*  
+**Focus Areas / Skills:** Environmental physics · Fluid mechanics · Atmospheric pollution · Data analysis · Quantitative reasoning · Renewable energy systems  
+
+**Highlights / Achievements:**  
+- Conducted experimental research on atmospheric pollutant diffusion, gaining hands-on experience in environmental modeling and quantitative data analysis.  
+- Completed advanced coursework relevant to energy and environment, including Renewable Energy Sources, Atmospheric Pollution, Fluid Mechanics, and Atmospheric Physics.  
+
+---
 
 **Core Competencies Across Studies**  
 - Quantitative analysis & numerical modeling  
 - Energy system optimization and simulation  
+- Electricity market design and modeling  
 - Environmental & sustainability-focused problem solving
 
 ---
@@ -64,11 +85,12 @@ Implementation of the **Unit Commitment problem** in power systems, formulated a
 ---
 
 ## 🌱 Currently Learning
-- Advanced Python libraries for optimization  
-- Smart grid simulation techniques  
-- Machine learning applications in energy systems  
+- Advanced optimization techniques for market operation and energy scheduling
+- Simulation of smart grid and demand response mechanisms using Python
+- Machine learning applications for energy price forecasting and renewable generation prediction
+- Integration of optimization models with real-world datasets (market data, grid operation data)
 
-💡 Goal: Applying optimization and machine learning techniques to real-world energy system challenges.
+💡 **Goal:** To apply advanced computational methods to enhance efficiency, stability, and sustainability in modern electricity markets and smart energy systems.
 
 ---
  
@@ -78,5 +100,8 @@ Implementation of the **Unit Commitment problem** in power systems, formulated a
 ---
 
 ## 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-kotzampasakis-129803230)  
+Let's connect and collaborate on energy optimization, data-driven modeling, or open-source research!  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonios-kotzampasakis)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anthonykts)
+
